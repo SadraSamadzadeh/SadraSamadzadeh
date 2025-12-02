@@ -21,5 +21,5 @@
 3 years of practical experience across full-stack web, CI/CD, and multimedia apps. I enjoy building practical solutions that scale — from redesigning database architectures to creating React Native video streaming apps. When I'm not coding, I'm learning game dev, debugging deployments, or improving my FIFA high score.
 
 **📍 Location:** The Cloud (sometimes Amersfoort, NL)  
-**💻 Current Focus:** React • Vue • PHP • Java • Spring Boot • React Native  
+**💻 Current Focus:** React • Vue • PHP • Java • Spring Boot • React Native • C# 
 **🎓 Education:** HBO-ICT, Software Engineering @ Saxion University (GPA: 8/10)
